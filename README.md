@@ -1,0 +1,1 @@
+A collection of my old python-getting-started repositories. 
